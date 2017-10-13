@@ -65,7 +65,15 @@ a:visited {
 
 footer {
   clear:both;
+  color: #fff;
   text-align: center;
+  background: #353b40;
+  height: 100px;
+  width: 100%;
+  padding:33px 0;
+  position: fixed;
+  bottom: 0px
+
 }
 .social {
   width: 62px;
